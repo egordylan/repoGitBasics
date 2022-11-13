@@ -9,14 +9,10 @@ Some practice
 ---
 
 ### Tasks:
-<<<<<<< Updated upstream
 * **Install Git**
 * Set up a **GitHub account** (if you don't have it yet)
-=======
-
 * Install Git [HERE](https://git-scm.com/)
 * Set up a GitHub account (if you don't have it yet)
->>>>>>> Stashed changes
 * Create a new GitHub repo 
 * Setup Github ssh connection (generate a key, update account settings, etc)
 * Configure author name and email use the git config command
