@@ -1,5 +1,7 @@
 ## **Git Basics Project**
+
 Git workflow and basics commands
+Some practice
 
 [Article about Git Work Flow](https://www.freecodecamp.org/news/practical-git-and-git-workflows/)\
 [GitHub Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet/)
@@ -7,8 +9,14 @@ Git workflow and basics commands
 ---
 
 ### Tasks:
+<<<<<<< Updated upstream
 * **Install Git**
 * Set up a **GitHub account** (if you don't have it yet)
+=======
+
+* Install Git [HERE](https://git-scm.com/)
+* Set up a GitHub account (if you don't have it yet)
+>>>>>>> Stashed changes
 * Create a new GitHub repo 
 * Setup Github ssh connection (generate a key, update account settings, etc)
 * Configure author name and email use the git config command
