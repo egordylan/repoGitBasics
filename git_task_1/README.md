@@ -1,7 +1,5 @@
 ## **Git Basics Project**
-
 Git workflow and basics commands
-Some practice
 
 [Article about Git Work Flow](https://www.freecodecamp.org/news/practical-git-and-git-workflows/)\
 [GitHub Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet/)
@@ -9,8 +7,7 @@ Some practice
 ---
 
 ### Tasks:
-
-* Install Git [HERE](https://git-scm.com/)
+* Install Git
 * Set up a GitHub account (if you don't have it yet)
 * Create a new GitHub repo 
 * Setup Github ssh connection (generate a key, update account settings, etc)
