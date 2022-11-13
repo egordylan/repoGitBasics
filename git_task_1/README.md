@@ -7,8 +7,8 @@ Git workflow and basics commands
 ---
 
 ### Tasks:
-* Install Git
-* Set up a GitHub account (if you don't have it yet)
+* **Install Git**
+* Set up a **GitHub account** (if you don't have it yet)
 * Create a new GitHub repo 
 * Setup Github ssh connection (generate a key, update account settings, etc)
 * Configure author name and email use the git config command
