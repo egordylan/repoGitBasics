@@ -11,7 +11,7 @@ Some practice
 ### Tasks:
 * **Install Git**
 * Set up a **GitHub account** (if you don't have it yet)
-* Install **Git** [HERE](https://git-scm.com/)
+* Install Git [HERE](https://git-scm.com/)
 * Set up a GitHub account (if you don't have it yet)
 * Create a new GitHub repo 
 * Setup Github ssh connection (generate a key, update account settings, etc)
@@ -29,5 +29,5 @@ Some practice
 * Edit the _README.MD_ file via Github web editor, pull the changes to the local repo via git pull command.
 * Update _README.MD_, rollback changes from the head.
 * Download commits using the git fetch command, check the status
-* Show logs (add some screenshots)
+* Show logs
 * Using _.gitignore_ file ignore all _.bak, .log, .tmp files and 'DEBUG' folder_, push the file to remote repo
