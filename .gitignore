@@ -1,0 +1,6 @@
+.idea
+.log
+.bac
+.tmp
+debug
+node_modules
